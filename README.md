@@ -8,5 +8,5 @@ In this project, we have designed and implemented a learned index called Sherry 
 ## Repositories
 The major repositories developed in our project include:
 - `rocksdb`: RocksDB and implementation of Sherry. Refer to the branch `fyp-6.8.fb-dev-debug` for more.
-- `plr-cpp`: A submodule encapsulating PLR algorithms.
+- `plr-cpp`: A submodule within `rocksdb` encapsulating PLR algorithms.
 - `space-test-repo`: A module responsible for benchmarking space consumption of Sherry and the traditional index block.
